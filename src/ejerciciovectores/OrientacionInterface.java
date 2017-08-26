@@ -7,7 +7,7 @@ package ejerciciovectores;
 
 /**
  *
- * @author Jose
+ * @author eduardo
  */
 public interface OrientacionInterface {
     public void ascendente();

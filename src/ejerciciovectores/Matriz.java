@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Jose
+ * @author eduardo
  */
 public class Matriz implements OrientacionInterface{
     Scanner leer=new Scanner(System.in);

@@ -10,7 +10,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Jose
+ * @author eduardo
  */
 public class Vector implements OrientacionInterface{
      Scanner leer=new Scanner(System.in);
